@@ -1,0 +1,15 @@
+# Evita arquivos temporários do Excel e pastas desnecessárias
+*.tmp
+~$*
+*.bak
+*.log
+
+# Evita arquivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Evita pastas do VSCode e outros editores
+.vscode/
+.idea/
+*.code-workspace
