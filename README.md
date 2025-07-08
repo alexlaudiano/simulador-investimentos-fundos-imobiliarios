@@ -58,4 +58,4 @@ Este projeto está licenciado sob a **MIT License**. Sinta-se à vontade para ut
 ### Autor
 
 **Alex — Analista de Dados**  
-[GitHub](https://github.com/seu-usuario) | [LinkedIn](https://linkedin.com/in/seu-perfil)
+[GitHub](https://github.com/alexlaudiano) | [LinkedIn](https://linkedin.com/in/laudiano)
